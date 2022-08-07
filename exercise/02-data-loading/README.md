@@ -69,7 +69,7 @@ start. Here are the blog posts we need to get from our server to the UI:
 
 ```tsx
 const data = {
-  posts: [
+  posts`: [
     {
       slug: "my-first-post",
       title: "My First Post",
